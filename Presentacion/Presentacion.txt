@@ -5,3 +5,7 @@ Correo: jfbonillap@unal.edu.co
 Nombres: Juan David
 Cedula: 9453613   
 Correo: juan84_10@hotmail.com
+
+Nombre: Leonardo Ramirez Mahecha
+Cedula: 80797536
+Correo: angelr521@hotmail.com
